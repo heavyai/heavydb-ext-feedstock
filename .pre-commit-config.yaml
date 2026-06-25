@@ -12,7 +12,8 @@
 
 exclude: |
   (?x)
-    ^build-locally\.py$
+    ^build-locally\.py$|
+    ^\.scripts/
 
 repos:
 
