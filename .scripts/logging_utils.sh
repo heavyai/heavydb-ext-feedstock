@@ -1,7 +1,4 @@
 #!/bin/bash
-# SPDX-FileCopyrightText: Copyright (c) 2026, NVIDIA CORPORATION & AFFILIATES. All rights reserved.
-# SPDX-License-Identifier: Apache-2.0
-
 
 # Provide a unified interface for the different logging
 # utilities CI providers offer. If unavailable, provide
