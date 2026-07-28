@@ -1,3 +1,9 @@
+> [!IMPORTANT]
+>
+> As of 05/27/2026 this project has been deprecated. ibis-heavyai is not maintained anymore.
+
+
+
 About heavydb-ext
 =================
 
